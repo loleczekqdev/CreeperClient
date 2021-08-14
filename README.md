@@ -4,4 +4,4 @@ We aren't Finished our Client yet but we are working on it.
 
 Progress bar:
 
-⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ _70% complete ;)
+⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ _70% complete ;)_
