@@ -4,7 +4,7 @@ We aren't Finished our Client yet but we are working on it. You can check client
 
 Progress bar:
 
-⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ _70% complete ;)_
+▰▰▰▰▰▰▰▱▱▱  _70% complete ;)_
 
 
 
