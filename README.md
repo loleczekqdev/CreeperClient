@@ -6,5 +6,9 @@ Progress bar:
 
 ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜ _70% complete ;)_
 
-Our TikTok: tiktok.com/@creeperclient
+
+
+Our TikTok: https://tiktok.com/@creeperclient
+
+
 Join Our Discord Server: https://discord.gg/C3PyB5kMhy
