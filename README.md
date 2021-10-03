@@ -11,4 +11,4 @@ Progress bar:
 Our TikTok: https://tiktok.com/@creeperclient
 
 
-Join Our Discord Server: https://discord.gg/C3PyB5kMhy
+Join Our Discord Server: https://discord.gg/3Nj8qNhF
